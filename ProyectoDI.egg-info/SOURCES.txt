@@ -1,0 +1,10 @@
+Creacion.py
+Principal.py
+PrincipalPrueba.py
+Prueba.py
+conf.py
+setup.py
+ProyectoDI.egg-info/PKG-INFO
+ProyectoDI.egg-info/SOURCES.txt
+ProyectoDI.egg-info/dependency_links.txt
+ProyectoDI.egg-info/top_level.txt
